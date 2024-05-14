@@ -1,0 +1,6 @@
+@portrait_forum_HostAddress = http://localhost:5114
+
+GET {{portrait_forum_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
